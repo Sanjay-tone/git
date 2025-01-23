@@ -1,2 +1,4 @@
 
 sanjay is a mern stack developer
+
+and also sanjay is ui and ux developer
